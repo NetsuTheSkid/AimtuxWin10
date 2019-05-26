@@ -2,8 +2,9 @@
   Imagine Aimtux on Windows but Coded by Skids! <br>
   <img src="https://flat.badgen.net/badge/VAC/Undetected./green?icon=terminal"><br>
   <img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg">
-<img src="https://cdn.discordapp.com/attachments/575670390462873613/582230560835895296/netsu_.png"><br>v2
-</p> <br>
+
+<img src="https://cdn.discordapp.com/attachments/575670390462873613/582230560835895296/netsu_.png"><br>
+
 
 ### Feature list <br>
 
@@ -24,7 +25,7 @@ Windows: Just Download it only works on windows xdxd
 
 
 # Screenshots
-<a href="https://cdn.discordapp.com/attachments/575628176567566356/575817415972225027/Screenshot_20190508-235231.png" alt="image" border="0"></a>
+<img src="https://cdn.discordapp.com/attachments/575628176567566356/575817415972225027/Screenshot_20190508-235231.png"><br>
 
 
 
