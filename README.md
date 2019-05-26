@@ -1,5 +1,5 @@
 <p align="center">
-  Imagine Aimtux on Windows but Coded by Skids! <br>
+  Imagine Aimtux on Windows but "Coded" by Skids! <br>
   <img src="https://flat.badgen.net/badge/VAC/Undetected./green?icon=terminal"><br>
   <img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg">
 
